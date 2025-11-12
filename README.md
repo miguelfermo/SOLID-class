@@ -1,0 +1,2 @@
+# SOLID class
+
