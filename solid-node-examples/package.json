@@ -1,0 +1,12 @@
+{
+  "name": "solid-node-examples",
+  "version": "1.0.0",
+  "description": "Exemplos em Node.js demonstrando os princípios S (Single Responsibility) e D (Dependency Inversion) do SOLID",
+  "main": "index.js",
+  "scripts": {
+    "start": "node srp/index.js && node dip/index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
